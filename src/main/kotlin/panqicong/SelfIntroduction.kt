@@ -1,6 +1,6 @@
 package hk.edu.hkbu.comp.comp4107.playground.panqicong
 
-class SelfIntro {
+class SelfIntroduction {
     fun introduce() {
         val name = "Pan Qicong"
         val age = 20
